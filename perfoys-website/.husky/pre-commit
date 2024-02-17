@@ -1,0 +1,3 @@
+# perfoys-website/.husky/pre-commit
+cd perfoys-website
+npm run format
